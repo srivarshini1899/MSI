@@ -1,0 +1,13 @@
+package com.bank.team7.eureka.server;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class ServerApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
